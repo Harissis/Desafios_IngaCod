@@ -1,4 +1,4 @@
- Desafios IngaCode
+## Desafios IngaCode
 
 Repositório contendo três projetos desenvolvidos em Java com interface gráfica (Swing), como parte dos desafios propostos pelo IngaCode.
 
